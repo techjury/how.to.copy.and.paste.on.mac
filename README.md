@@ -1,6 +1,6 @@
 # how to copy and paste on mac
 
-[![how to copy and paste on mac](gett-stateed.png)](https://github.com/techjury/how.to.copy.and.paste.on.mac)
+[![how to copy and paste on mac](gett-stateed.png)](https://icncomputer.com/how-to-copy-and-paste-on-mac/)
 
 _Copy or cut text or other items from one location, then paste in another location. These methods work in most apps._
 
